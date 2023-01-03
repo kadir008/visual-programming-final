@@ -5,3 +5,6 @@
 ### Admin Bilgileri : 
 
 ### admin - 951753123
+
+
+### Veritabanı : 43stationc#
